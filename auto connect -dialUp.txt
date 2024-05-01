@@ -1,0 +1,5 @@
+rasdial "[dial-up name]" [user-id] [password]
+
+note:
+1. save (.bat) file format
+2. copy to (C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp) this path.
